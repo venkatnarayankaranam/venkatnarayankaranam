@@ -9,7 +9,7 @@ Think low-level, Code high-level
 - 🎭 Fun fact: I love coding and problem-solving!
 - 📧 You can mail me here [venkatnarayanchowdary95@gmail.com](mailto:venkatnarayanchowdary95@gmail.com)
 - 🌐 You can check my [portfolio](https://your-portfolio-link.com)
-- 📄 View my [Resume](https://your-resume-link.com)
+- 📄 View my [Venkatnarayan_Karanam_Devops_Resume](https://drive.google.com/file/d/1mrM2h2ynMFUGD8ZeH8e-2VupnKZaBsH1/view?usp=sharing)
 
 ## 🔗 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsvenkat___05/)
