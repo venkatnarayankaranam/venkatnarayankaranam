@@ -33,3 +33,6 @@ Think low-level, Code high-level
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkatnarayankaranam&show_icons=true&theme=radical)
+
+## 📈 GitHub Stats Snapshot
+![GitHub Stats Snapshot](https://your-uploaded-image-url.png)
